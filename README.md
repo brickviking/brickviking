@@ -46,6 +46,23 @@ Current issues:
 * fetching code has become superfluous
 * "start server" code is locked to one filename
 
+### atom-presunset
+
+This is a snapshot of the atom editor source code before the original atom/atom was sunsetted and archived.
+
+Source: [Github repository](https://github.com/brickviking/atom-presunset)
+
+No wiki available. Yet.
+
+Features:
+* provides an editor that has roughly the same features as VSCode, if you don't look too hard
+* It used to have support for plugins, before the server for those was shut down. There are alternatives if you're prepared to look.
+
+Liabilities:
+* Built on Electron. This used to be an advantage, now it's not seen as one any more as other platforms have overtaken Electron for speed.
+* No longer supported by Microsoft. However, [Pulsar](https://github.com/pulsar-edit/pulsar) and others forked the project to continue.
+* Support for the original Atom editor from subsequent forkers. There is none, in essence. There is no guarantee of fixes.
+
 <!--
 **brickviking/brickviking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
