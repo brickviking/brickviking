@@ -1,6 +1,27 @@
 # brickviking
 
-Hi. I'm brickviking, author of the rfcshow and minecrafty projects.
+Hi. I'm brickviking, author of the rfcshow and minecrafty projects. Many of my other projects are listed here,
+or in the Repositories link reached from [here](https://github.com/brickviking).
+
+### vimmaker/emacsmake
+
+Two compiling front ends for the latest vim or emacs source trees. It features the ability to fetch the latest
+git revision of the editor, and compile various versions of the vim and emacs editors. Run `vimmaker help`
+or `emacsmake help` for further details. If you want the gnarlies, read the org documents from within Emacs,
+as that's the best place to use it.
+
+Sources: [Emacsmake](https://github.com/brickviking/emacsmake) and [Vimmaker](https://github.com/brickviking/vimmaker)
+
+### nqbn2emacs
+
+A quirky acronym for the Not-Quite-Brand-New-To-Emacs (and vim) guide for those of you who have learned to
+start up and shut down your editor without pulling the plug out of the wall. It provides several useful things
+that I've either discovered or been told about over the years for both the emacs and vim editors, as well as
+a small miscellany of other things. The best way to use this is to download the org document and load it up inside
+a recent version of emacs with org-mode. A version of org-mode also exists for the vim editor, though that is not
+as fully-featured.
+
+Source: [Nqbn2Emacs & vim](https://github.com/brickviking/nqbn2emacs)
 
 ### rfcshow
 
@@ -20,10 +41,10 @@ Ancient. Needs updating badly.
 
 ### Dolphin Smalltalk
 
-
 Dolphin Smalltalk was a commercial product from Object Arts, and featured a high level of integration with the Windows operating system. It has since been made open source under the MIT licence. Its development is ongoing. This version has been forked from the parent project. 
 
-Source: See [that repository](https://github.com/dolphinsmalltalk/Dolphin) instead for important changes.
+Source: See [that repository](https://github.com/dolphinsmalltalk/Dolphin) instead for important changes,
+as I have not kept up to date with this project due to inability to run this on my machine.
 
 
 ### minecrafty
@@ -60,7 +81,7 @@ Features:
 
 Liabilities:
 * Built on Electron. This used to be an advantage, now it's not seen as one any more as other platforms have overtaken Electron for speed.
-* No longer supported by Microsoft. However, [Pulsar](https://github.com/pulsar-edit/pulsar) and others forked the project to continue.
+* No longer supported by Microsoft. However, [Pulsar](https://github.com/pulsar-edit/pulsar) and others have forked the project to continue its legacy.
 * Support for the original Atom editor from subsequent forkers. There is none, in essence. There is no guarantee of fixes.
 
 <!--
