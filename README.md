@@ -1,7 +1,7 @@
 # brickviking
 
 Hi. I'm brickviking, author of the rfcshow and minecrafty projects. Many of my other projects are listed here,
-or in the Repositories link reached from [here](https://github.com/brickviking).
+or in the Repositories link reached from above or from [here](https://github.com/brickviking).
 
 ### vimmaker/emacsmake
 
